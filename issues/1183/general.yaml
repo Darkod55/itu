@@ -15,3 +15,20 @@ messages:
             E-mail: ens@ens.dk
             URL: www.ens.dk 
         communications: []
+      - country_name:
+          en: Ghana
+        phone_code: '233'
+        contact:
+          en: |-
+            National Communications Authority (NCA)
+            Mr Paul Kofi Datsa
+            NCA Tower, No. 6 Airport City
+            Kotoka International Airport
+            P.O. Box CT 1568, Cantonments
+            ACCRA
+            Ghana
+            Tel: +233 302 776 621
+            Fax: +233 302 763 449
+            E-mail: info@nca.org.gh
+            URL: www.nca.org.gh
+        communications: []
